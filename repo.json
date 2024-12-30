@@ -1,0 +1,8 @@
+{
+    "WinScp": {
+        "version": "6.3.6",
+        "description": "A FTP file manager",
+        "installer": "https://winscp.net/download/files/2024123018238b0250f31ce94b96b5d0e667e5190c43/WinSCP-6.3.6-Setup.exe",
+        "uninstaller": null
+    }
+}

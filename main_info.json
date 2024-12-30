@@ -2,6 +2,8 @@
     "name": "Titim Repo",
     "domains": [
         "https://winscp.net",
-        "winscp.net"
+        "winscp.net",
+        "https://soleil-des-chats.github.io",
+        "soleil-des-chats.github.io"
     ]
 }

@@ -3,6 +3,6 @@
         "version": "6.3.6",
         "description": "A FTP file manager",
         "installer": "https://soleil-des-chats.github.io/TitimRepo/storage/WinSCP-6.3.6-Setup.exe",
-        "uninstaller": null
+        "uninstaller": "WinSCP"
     }
 }

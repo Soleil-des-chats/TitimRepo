@@ -5,5 +5,12 @@
         "installer": "https://soleil-des-chats.github.io/TitimRepo/storage/WinSCP-6.3.6-Setup.exe",
         "UninstRegistryType": "WOW6432Node",
         "UninstFolder": "winscp3_is1"
+    },
+    "Steam": {
+        "version": "latest",
+        "description": "Steam is a digital distribution platform developed by Valve Corporation, which offers digital rights management (DRM)",
+        "installer": "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe",
+        "UninstRegistryType": "WOW6432Node",
+        "UninstFolder": "Steam"
     }
 }
